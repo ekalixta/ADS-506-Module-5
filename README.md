@@ -6,4 +6,4 @@ Open app.R in RStudio and click Run App. Select varieties, dates, models, traini
 
 Packages: shiny, tidyverse, tsibble, fable, fabletools, feasts, lubridate.
 
-ChatGPT assisted with drafting the code and explanations. The code follows the course's suggested Module 5 workflow.
+ChatGPT assisted with drafting the code and explanations. 
